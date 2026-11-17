@@ -1,0 +1,10 @@
+# Compiled C programs
+*.o
+*.out
+*.exe
+a.out
+program
+# Editor / OS files
+.DS_Store
+.vscode/
+.idea/
