@@ -1,6 +1,10 @@
-# BCA 102 — C Programming syllabus coverage
+# BCA 102 — C Programming | Syllabus Coverage
 
-This outline is transcribed and organized from the uploaded BCA New Syllabus document. The course is listed as **C Programming**, course code **BCA-102**, First Year / First Semester, 3 credits, with a weekly workload of 3 theory hours and 3 practical hours.
+This section provides an overview of the topics covered in **C Programming (BCA-102)** for BCA First Year, First Semester. The repository is organized into six units to make it easier for students to follow the course, explore programming concepts, and practice C programming through examples.
+
+The course carries **3 credits**, with 3 hours of theory and 3 hours of practical classes per week.
+
+The following sections outline the topics covered in each unit and the practical areas included in the course.
 
 ## Unit 1 — Introduction to C programming language and basics (5 hours)
 
